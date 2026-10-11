@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="t d">
+  <title id="t">Makram Amri, software engineer</title>
+  <desc id="d">Terminal window: whoami returns software engineering student; stack Django, React, TypeScript; status open to internships.</desc>
+  <rect width="900" height="250" rx="12" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="899" height="249" rx="12" fill="none" stroke="#30363d"/>
+  <path d="M0 12a12 12 0 0 1 12-12h876a12 12 0 0 1 12 12v30H0z" fill="#161b22"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="21" r="6" fill="#27c93f"/>
+  <text x="450" y="26" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="13" fill="#8b949e">makram@tunis: ~</text>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,Menlo,monospace" font-size="20">
+    <text x="32" y="92"><tspan fill="#3fb950">$</tspan><tspan fill="#c9d1d9"> whoami</tspan></text>
+    <text x="32" y="122" fill="#58a6ff" font-size="24" font-weight="700">Makram Amri · Software Engineering Student</text>
+    <text x="32" y="168"><tspan fill="#3fb950">$</tspan><tspan fill="#c9d1d9"> cat stack.txt</tspan></text>
+    <text x="32" y="198" fill="#c9d1d9">Django · DRF · React · TypeScript · PostgreSQL · Docker</text>
+    <text x="32" y="236"><tspan fill="#3fb950">$</tspan><tspan fill="#c9d1d9"> status </tspan><tspan fill="#d29922">open to internships</tspan><tspan fill="#c9d1d9"> ▍</tspan></text>
+  </g>
+</svg>
